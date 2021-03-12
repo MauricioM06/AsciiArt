@@ -7,7 +7,7 @@ namespace Gato
     {
         public static void Main( String [] args )
         {
-			Console.WriteLine("  /|_|\\ ");
+	    Console.WriteLine("  /|_|\\ ");
             Console.WriteLine(" ( o o )");
             Console.WriteLine(" ==_Y_== ");
             Console.WriteLine("   '-'   ");
